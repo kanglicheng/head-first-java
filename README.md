@@ -1,2 +1,2 @@
-# head-first-java
-Learning Notes of Head First Java
+# Head First Java
+Codes by chapters
